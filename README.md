@@ -16,7 +16,7 @@ I believe everyone should try building a custom mechanical keyboard suited to th
 ### 📧 Contact
 Feel free to reach out to me on [Twitter](https://twitter.com/frian_eth) or [Telegram](https://t.me/frian_eth) (username: **frian_eth**)
 
-### Conferences / Hackathons Attended
+### 💻 Conferences / Hackathons Attended
 * [Solana Hacker House](https://solana.com/news/solana-hacker-house-world-tour) in Los Angeles
 * [ETHDenver 2022](https://www.ethdenver.com/)
 * [Avalanche Summit](https://www.avalanchesummit.com/)
