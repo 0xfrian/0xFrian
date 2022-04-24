@@ -1,6 +1,6 @@
 # Welcome to my GitHub page (ﾉ◠ ͜ ◠)ﾉ*:⋆･ﾟ✧
 
-### 🌷 About Me
+### 🧋 About Me
 Grew up and currently based in the San Gabriel Valley area in California (𝟞𝟚𝟞). In a previous life, I studied physics and pursued a career in physics education at [UC Irvine](https://uci.edu/) as a teacher's assistant and Jr. researcher. After graduating, I pivoted careers into software engineering, specifically smart contract development. 
 
 ### 🏗️ Work
