@@ -11,7 +11,8 @@ Grew up and currently based in the San Gabriel Valley area in California (𝟞�
  * A collection of materials documenting my coursework, research, and teaching at UC Irvine. 
 
 ### ⌨️ Hobbies
-I believe everyone should try building a custom mechanical keyboard suited to their preferences. I've built/modified more than a dozen mech keebs. Currently my daily driver is a [Mode SixtyFive](https://modedesigns.com/blogs/updates/updates-introducing-the-sixtyfive) with Gateron Black Ink switches. 
+I believe everyone should try building a custom mechanical keyboard suited to their preferences. I've built/modified more than a dozen mech keebs. 
+Currently my daily driver is a [Mode SixtyFive](https://modedesigns.com/blogs/updates/updates-introducing-the-sixtyfive) with Gateron Black Ink switches. 
 
 ### 📧 Contact
 Feel free to message me! :D
