@@ -12,11 +12,12 @@ Grew up and currently based in the San Gabriel Valley area in California (𝟞�
 
 ### ⌨️ Hobbies
 I believe everyone should try building a custom mechanical keyboard suited to their preferences. I've built/modified more than a dozen mech keebs. 
+
 Currently my daily driver is a [Mode SixtyFive](https://modedesigns.com/blogs/updates/updates-introducing-the-sixtyfive) with Gateron Black Ink switches. 
 
 ### 📧 Contact
 Feel free to message me! :D
-- Twitter: [frian_eth](https://twitter.com/frian_eth)
+- Twitter: [0xfrian](https://twitter.com/0xfrian)
 - Telegram: [frian_eth](https://t.me/frian_eth)
 
 ### 💻 Conferences / Hackathons Attended
