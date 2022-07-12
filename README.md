@@ -17,7 +17,7 @@ Currently my daily driver is a [Mode SixtyFive](https://modedesigns.com/blogs/up
 
 ### 📧 Contact
 Feel free to message me! :D
-- Email: 0xfrian@gmail.com
+- Email: brianfong22@gmail.com
 - Twitter: [0xfrian](https://twitter.com/0xfrian)
 - Telegram: [frian_eth](https://t.me/frian_eth)
 
