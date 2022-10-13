@@ -4,25 +4,8 @@
 Grew up and currently based in the San Gabriel Valley area in California (𝟞𝟚𝟞). In a previous life, I studied physics and pursued a career in physics education at [UC Irvine](https://uci.edu/) as a teacher's assistant and Jr. researcher.
 
 ### 🏗️ Work
-#### [Solidity Journey](https://github.com/0xFrian/solidity-journey) 
- * This GitHub repository serves as an introduction to deploying and interacting with **Solidity** smart contracts on **Ethereum** testnets using **JavaScript**, **ethers.js**, **Hardhat**, and **Alchemy**. 
-
 #### [Physics Coursework, Research, and Teaching Materials](https://github.com/0xFrian/physics-coursework-and-research) (Archived): 
  * A collection of materials documenting my coursework, research, and teaching at UC Irvine. 
 
-### ⌨️ Hobbies
-I believe everyone should try building a custom mechanical keyboard suited to their preferences. I've built/modified more than a dozen mech keebs. 
-
-Currently my daily driver is a [Mode SixtyFive](https://modedesigns.com/blogs/updates/updates-introducing-the-sixtyfive) with Gateron Black Ink switches. 
-
-### 📧 Contact
-Feel free to message me! :D
-- Email: brianfong22@gmail.com
-- Twitter: [0xfrian](https://twitter.com/0xfrian)
-- Telegram: [frian_eth](https://t.me/frian_eth)
-
-### 💻 Conferences / Hackathons Attended
-* [Solana Hacker House](https://solana.com/news/solana-hacker-house-world-tour) in Los Angeles
-* [ETHDenver 2022](https://www.ethdenver.com/)
-* [Avalanche Summit](https://www.avalanchesummit.com/)
-* [DevConnect](https://devconnect.org/schedule) + [ETHAmsterdam 2022](https://amsterdam.ethglobal.com/#schedule)
+#### [thecoreloop](https://github.com/0xFrian/thecoreloop):
+ * Aggregator for gaming and web3 related news, curated by [0xkapital_k](https://twitter.com/0xkapital_k).
