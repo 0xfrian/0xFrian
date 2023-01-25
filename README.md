@@ -1,7 +1,6 @@
 # Welcome! (ﾉ◠ ͜ ◠)ﾉ*:⋆･ﾟ✧
 
-### 🧋 About Me
-Grew up and currently based in the San Gabriel Valley area in California (𝟞𝟚𝟞). In a previous life, I studied physics and pursued a career in physics education at [UC Irvine](https://uci.edu/) as a teacher's assistant and Jr. researcher.
+Based in (𝟞𝟚𝟞). In a previous life, I studied physics and pursued a career in physics education at [UC Irvine](https://uci.edu/) as a teacher's assistant and Jr. researcher.
 
 ### 🏗️ Work
 #### [thecoreloop](https://github.com/0xFrian/thecoreloop):
