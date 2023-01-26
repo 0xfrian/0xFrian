@@ -1,8 +1,6 @@
 # Welcome! (ﾉ◠ ͜ ◠)ﾉ*:⋆･ﾟ✧
 
-Based in (𝟞𝟚𝟞). In a previous life, I studied physics and pursued a career in physics education at [UC Irvine](https://uci.edu/) as a teacher's assistant and Jr. researcher.
-
-### 🏗️ Work
+### 🏗️ Projects
 #### [thecoreloop](https://github.com/0xFrian/thecoreloop):
  * Aggregator for gaming and web3 related news, curated by [0xkapital_k](https://twitter.com/0xkapital_k).
 
