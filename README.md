@@ -1,6 +1,6 @@
-# Welcome! (ﾉ◠ ͜ ◠)ﾉ*:⋆･ﾟ✧
+# (ﾉ◠ ͜ ◠)ﾉ*:⋆･ﾟ✧
 
-core developer [@thecoreloop](https://mobile.twitter.com/thecoreloop)
+Currently building [@thecoreloop](https://mobile.twitter.com/thecoreloop) (gaming/web2/web3 news aggregator)
 
 In a previous life I did some physics education research at UC Irvine.
 
