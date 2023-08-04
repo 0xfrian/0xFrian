@@ -1,6 +1,6 @@
 # (ﾉ◠ ͜ ◠)ﾉ*:⋆･ﾟ✧
 
-Currently building [@thecoreloop](https://mobile.twitter.com/thecoreloop) (gaming/web2/web3 news aggregator)
+Currently building [@thecoreloop](https://twitter.com/thecoreloop) and [@reactive](https://twitter.com/Reactive_land)
 
 In a previous life I did some physics education research at UC Irvine.
 
